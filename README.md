@@ -11,7 +11,8 @@ Languages:
 - Lua
 
 Want to learn:
-- Go
+- TypeScript
+- x86_assembly
 - SwiftUI
 - Kotlin
 - Rust
